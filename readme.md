@@ -79,7 +79,7 @@ npx hardhat run scripts/deploy.js --network goerli
 🔹 **Decentralized Data Storage (IPFS)** 🔗  
 
 ## 👨‍💻 Author
-**Chinmay Duse** – [GitHub](https://github.com/in/psyphon1) | [LinkedIn](https://linkedin.com/in/chinmayduse)
+**Chinmay Duse** – [GitHub](https://github.com/psyphon1) | [LinkedIn](https://linkedin.com/in/chinmayduse)
 
 💡 **Contributions & Feedback are Welcome!** 🚀
 
